@@ -1,5 +1,8 @@
 # Colors.js for Meteor
 
+**Forked from: nooitaf/meteor-colors** use NPM Peer dependency instead of
+Npm.depends()
+
 Meteor _Server Only_  wrapper for [Colors.js](https://github.com/Marak/colors.js) 1.1.2
 
  
